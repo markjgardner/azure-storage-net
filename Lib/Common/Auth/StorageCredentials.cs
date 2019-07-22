@@ -221,7 +221,7 @@ namespace Microsoft.Azure.Storage.Auth
         }
 
         /// <summary>
-        /// Initializes a new instance of the <see cref="StorageCredentials"/> class with the specified bearer token.
+        /// Initializes a new instance of the <see cref="StorageCredentials"/> class with the specified bearer token and account name.
         /// </summary>
         /// <param name="tokenCredential">The authentication token.</param>
         /// <param name="accountName">A string that represents the name of the storage account.</param>
